@@ -32,6 +32,7 @@ public class Client extends ApplicationWindow {
 	private Text text;
 	private Text text_1;
 
+	//Test
 	private Socket socket;
 
 	private OutputStream outputStream;
