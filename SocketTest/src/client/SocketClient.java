@@ -11,6 +11,7 @@ import java.net.UnknownHostException;
 
 public class SocketClient {
 
+	private String a;
 	public SocketClient() {
 		try {
 			Socket socket = new Socket("127.0.0.1", 8888);
